@@ -331,13 +331,6 @@
       "creationDate": "2025-03-14 16:50:42",
       "lastUsed": "2025-05-05 10:48:17"
     },
-    "basit": {
-      "password": "1",
-      "hwid": "4C4C4544-0047-5810-8039-B7C04F334D32",
-      "expiryDate": "2025-04-28",
-      "creationDate": "2025-03-27 19:23:13",
-      "lastUsed": "2025-04-27 18:32:42"
-    },
     "romi": {
       "password": "1",
       "hwid": "943B6C00-509C-11E4-A472-A0D3C14B0136",
@@ -377,12 +370,6 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-04-09 10:05:01",
       "lastUsed": "2025-05-05 14:37:49"
-    },
-    "usaid": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-04-23",
-      "creationDate": "2025-04-20 13:41:19"
     },
     "mzn": {
       "password": "1",

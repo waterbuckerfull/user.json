@@ -454,6 +454,12 @@
       "hwid": "free",
       "expiryDate": "2025-05-11 10:17:41",
       "creationDate": "2025-05-10 10:17:48"
+    },
+    "ffjanu": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-10 10:20:03"
     }
   }
 }

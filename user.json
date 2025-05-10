@@ -454,6 +454,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-09 06:34:35",
       "lastUsed": "2025-05-09 13:00:27"
+    },
+    "insane": {
+      "password": "24hrs",
+      "hwid": "",
+      "expiryDate": "2025-05-11 10:17:41",
+      "creationDate": "2025-05-10 10:17:48"
     }
   }
 }

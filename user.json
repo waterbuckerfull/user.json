@@ -95,7 +95,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-04-14 10:57:14",
-      "lastUsed": "2025-05-14 14:31:07"
+      "lastUsed": "2025-05-14 14:07:51"
     },
     "hammad": {
       "password": "1",
@@ -477,9 +477,10 @@
     },
     "insane": {
       "password": "24hrs",
-      "hwid": "",
+      "hwid": "FB560174-E53C-11B3-7402-6589507C2505",
       "expiryDate": "2025-05-15 13:48:31",
-      "creationDate": "2025-05-14 13:48:35"
+      "creationDate": "2025-05-14 13:48:35",
+      "lastUsed": "2025-05-14 14:31:23"
     }
   }
 }

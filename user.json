@@ -228,12 +228,6 @@
       "expiryDate": "2025-05-15 05:33:55",
       "creationDate": "2025-05-14 17:34:01",
       "lastUsed": "2025-05-14 18:39:04"
-    },
-    "habib": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-16 13:47:00"
     }
   },
   "INSANE": {
@@ -493,7 +487,7 @@
       "hwid": "free",
       "expiryDate": "2025-05-17 12:55:39",
       "creationDate": "2025-05-16 12:55:44",
-      "lastUsed": "2025-05-16 13:45:05"
+      "lastUsed": "2025-05-16 13:47:31"
     }
   }
 }

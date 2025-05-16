@@ -481,6 +481,12 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-10 10:20:03"
+    },
+    "insane": {
+      "password": "realdev",
+      "hwid": "",
+      "expiryDate": "2025-05-17 12:55:39",
+      "creationDate": "2025-05-16 12:55:44"
     }
   }
 }

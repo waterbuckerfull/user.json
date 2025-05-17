@@ -385,7 +385,7 @@
       "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
       "expiryDate": "2057-10-15 22:50:30",
       "creationDate": "2025-03-14 16:50:42",
-      "lastUsed": "2025-05-17 17:18:03"
+      "lastUsed": "2025-05-17 17:23:01"
     },
     "romi": {
       "password": "1",
@@ -495,12 +495,6 @@
       "expiryDate": "2025-05-17 12:55:39",
       "creationDate": "2025-05-16 12:55:44",
       "lastUsed": "2025-05-17 10:57:02"
-    },
-    "eren": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-17 17:20:32"
     }
   }
 }

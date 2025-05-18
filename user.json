@@ -222,13 +222,6 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-14 11:43:36"
     },
-    "mustakim": {
-      "password": "1",
-      "hwid": "03560274-043C-059B-BD06-600700080009",
-      "expiryDate": "2025-05-15 05:33:55",
-      "creationDate": "2025-05-14 17:34:01",
-      "lastUsed": "2025-05-14 18:39:04"
-    },
     "habib123": {
       "password": "1",
       "hwid": "FB560174-E53C-11B3-7402-6589507C2505",
@@ -495,13 +488,6 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-10 10:20:03"
-    },
-    "insane": {
-      "password": "realdev",
-      "hwid": "free",
-      "expiryDate": "2025-05-17 12:55:39",
-      "creationDate": "2025-05-16 12:55:44",
-      "lastUsed": "2025-05-17 10:57:02"
     }
   }
 }

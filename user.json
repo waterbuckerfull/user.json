@@ -392,7 +392,7 @@
       "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
       "expiryDate": "2057-10-15 22:50:30",
       "creationDate": "2025-03-14 16:50:42",
-      "lastUsed": "2025-05-18 08:29:06"
+      "lastUsed": "2025-05-18 08:31:21"
     },
     "romi": {
       "password": "1",
@@ -498,10 +498,9 @@
     },
     "insane": {
       "password": "1",
-      "hwid": "35389B80-7FE8-11E4-903A-C4346B6BBE4E",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-18 07:44:46",
-      "lastUsed": "2025-05-18 08:29:06"
+      "creationDate": "2025-05-18 07:44:46"
     }
   }
 }

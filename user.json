@@ -258,9 +258,10 @@
     },
     "maska": {
       "password": "1",
-      "hwid": "",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-24 16:55:04"
+      "creationDate": "2025-05-24 16:55:04",
+      "lastUsed": "2025-05-24 18:07:52"
     }
   },
   "INSANE": {

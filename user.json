@@ -490,6 +490,12 @@
       "hwid": "free",
       "expiryDate": "2025-05-28 16:52:51",
       "creationDate": "2025-05-27 16:52:54"
+    },
+    "uzzi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-28 06:24:31"
     }
   }
 }

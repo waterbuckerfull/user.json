@@ -158,7 +158,7 @@
       "hwid": "4F691B80-E15E-11E2-A52E-8851FB53ADED",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-05 14:56:30",
-      "lastUsed": "2025-05-28 06:20:27"
+      "lastUsed": "2025-05-28 16:54:17"
     },
     "hadi": {
       "password": "1",
@@ -338,7 +338,7 @@
       "hwid": "4C4C4544-0030-3610-8048-CAC04F513232",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-12 10:19:58",
-      "lastUsed": "2025-05-28 16:52:06"
+      "lastUsed": "2025-05-28 06:02:08"
     },
     "rehan": {
       "password": "1",
@@ -382,6 +382,13 @@
       "creationDate": "2025-03-14 16:50:42",
       "lastUsed": "2025-05-22 00:31:01"
     },
+    "romi": {
+      "password": "1",
+      "hwid": "943B6C00-509C-11E4-A472-A0D3C14B0136",
+      "expiryDate": "2025-05-30",
+      "creationDate": "2025-03-30 09:19:53",
+      "lastUsed": "2025-05-06 19:16:51"
+    },
     "bypasscus": {
       "password": "1",
       "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
@@ -402,12 +409,40 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-04-07 10:13:14"
     },
+    "mzn": {
+      "password": "1",
+      "hwid": "4C9A9900-E3B6-11E3-A52C-A0D3C11799E8",
+      "expiryDate": "2025-06-30",
+      "creationDate": "2025-04-28 07:10:12",
+      "lastUsed": "2025-05-28 13:09:27"
+    },
+    "rayyan": {
+      "password": "1",
+      "hwid": "AD55CF30-131A-C58C-B3E6-40167E6A9B1F",
+      "expiryDate": "2025-06-30",
+      "creationDate": "2025-04-28 07:10:12",
+      "lastUsed": "2025-05-25 06:06:26"
+    },
+    "khudadad": {
+      "password": "1",
+      "hwid": "038D0240-045C-0534-2E06-7E0700080009",
+      "expiryDate": "2025-06-30",
+      "creationDate": "2025-04-28 07:10:12",
+      "lastUsed": "2025-05-26 08:56:34"
+    },
     "waheed": {
       "password": "1",
       "hwid": "BB2A2DD9-DBCC-E211-89D5-505054503030",
       "expiryDate": "No Expiry",
       "creationDate": "2025-04-28 07:12:47",
       "lastUsed": "2025-04-29 21:09:51"
+    },
+    "kabaz": {
+      "password": "1",
+      "hwid": "43304DF4-E544-1620-0201-234048000000",
+      "expiryDate": "2025-06-30",
+      "creationDate": "2025-04-28 13:12:31",
+      "lastUsed": "2025-05-01 09:31:14"
     },
     "zain": {
       "password": "1",

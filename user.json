@@ -435,6 +435,12 @@
       "expiryDate": "2025-06",
       "creationDate": "2025-05-29 09:35:10",
       "lastUsed": "2025-05-29 14:25:19"
+    },
+    "emily": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-29 16:20:59"
     }
   }
 }

@@ -227,7 +227,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-05-30 10:59:28"
+      "lastUsed": "2025-05-30 10:51:57"
     },
     "ali1122": {
       "password": "1",
@@ -414,13 +414,14 @@
       "hwid": "4C4C4544-0054-3710-8036-C2C04F425A31",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-09 06:34:35",
-      "lastUsed": "2025-05-30 10:57:18"
+      "lastUsed": "2025-05-30 09:54:52"
     },
     "mzn": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C9A9900-E3B6-11E3-A52C-A0D3C11799E8",
       "expiryDate": "2025-06-06",
-      "creationDate": "2025-05-29 08:27:21"
+      "creationDate": "2025-05-29 08:27:21",
+      "lastUsed": "2025-05-30 10:59:27"
     },
     "noor": {
       "password": "1",

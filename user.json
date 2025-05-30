@@ -432,9 +432,10 @@
     },
     "2": {
       "password": "2",
-      "hwid": "",
+      "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-05-30 16:49:27"
+      "creationDate": "2025-05-30 16:49:27",
+      "lastUsed": "2025-05-31 01:47:50"
     }
   }
 }

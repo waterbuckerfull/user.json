@@ -429,6 +429,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-29 16:20:59",
       "lastUsed": "2025-05-30 06:52:48"
+    },
+    "2": {
+      "password": "2",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-30 16:49:27"
     }
   }
 }

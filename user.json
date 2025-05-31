@@ -436,6 +436,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-30 16:49:27",
       "lastUsed": "2025-05-31 01:47:50"
+    },
+    "rayyan": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-10",
+      "creationDate": "2025-05-31 11:10:40"
     }
   }
 }

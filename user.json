@@ -292,10 +292,9 @@
     },
     "hamzasexy": {
       "password": "1",
-      "hwid": "4ED28540-06A3-E111-8533-000EA68F75B0",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-06-01 10:07:48",
-      "lastUsed": "2025-06-02 17:51:18"
+      "creationDate": "2025-06-01 10:07:48"
     },
     "ncuong": {
       "password": "1",
@@ -469,7 +468,7 @@
       "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-30 16:49:27",
-      "lastUsed": "2025-06-02 17:32:36"
+      "lastUsed": "2025-06-02 17:54:16"
     },
     "rayyan": {
       "password": "1",

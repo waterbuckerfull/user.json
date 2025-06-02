@@ -306,9 +306,10 @@
     },
     "insane": {
       "password": "1",
-      "hwid": "",
+      "hwid": "35389B80-7FE8-11E4-903A-C4346B6BBE4E",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-06-02 08:16:28"
+      "creationDate": "2025-06-02 08:16:28",
+      "lastUsed": "2025-06-02 20:23:22"
     },
     "insane6c": {
       "password": "1",

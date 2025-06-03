@@ -319,9 +319,10 @@
     },
     "contentcreater": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0059-3810-8051-CAC04F355931",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-06-03 09:28:41"
+      "creationDate": "2025-06-03 09:28:41",
+      "lastUsed": "2025-06-03 09:56:52"
     }
   },
   "INSANE": {
@@ -447,7 +448,7 @@
       "hwid": "73B9AC95-D91B-12D7-2B30-727E3D84D577",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-06 16:13:43",
-      "lastUsed": "2025-06-03 09:54:42"
+      "lastUsed": "2025-06-02 16:43:45"
     },
     "ffhamza": {
       "password": "1",

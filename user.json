@@ -319,9 +319,10 @@
     },
     "contentcreater": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0059-3810-8051-CAC04F355931",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-06-03 09:28:41"
+      "creationDate": "2025-06-03 09:28:41",
+      "lastUsed": "2025-06-03 11:12:41"
     }
   },
   "INSANE": {

@@ -332,9 +332,10 @@
     },
     "cyber": {
       "password": "1",
-      "hwid": "",
+      "hwid": "69D79C7B-8742-11E0-BBDA-D721E5E22C27",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-06-03 19:40:50"
+      "creationDate": "2025-06-03 19:40:50",
+      "lastUsed": "2025-06-04 03:30:35"
     }
   },
   "INSANE": {

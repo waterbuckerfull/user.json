@@ -228,7 +228,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-06-04 12:26:38"
+      "lastUsed": "2025-06-04 08:23:33"
     },
     "ali1122": {
       "password": "1",
@@ -320,9 +320,10 @@
     },
     "contentcreater": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0059-3810-8051-CAC04F355931",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-06-03 09:28:41"
+      "creationDate": "2025-06-03 09:28:41",
+      "lastUsed": "2025-06-04 12:26:48"
     },
     "contentcreator2": {
       "password": "1",

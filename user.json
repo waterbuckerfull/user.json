@@ -533,7 +533,7 @@
     },
     "insanefree": {
       "password": "24hrs",
-      "hwid": "",
+      "hwid": "free",
       "expiryDate": "2025-06-06 13:03:24",
       "creationDate": "2025-06-05 06:03:29"
     }

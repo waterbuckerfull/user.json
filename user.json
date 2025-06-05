@@ -529,6 +529,12 @@
       "hwid": "free",
       "expiryDate": "2025-06-06 13:03:24",
       "creationDate": "2025-06-05 06:03:29"
+    },
+    "noor": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-20 19:29:23",
+      "creationDate": "2025-06-05 19:29:28"
     }
   }
 }

@@ -551,11 +551,11 @@
   "FAKEDAMAGEFIX": {
     "maska": {
       "password": "1",
-      "hwid": "",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
       "expiryDate": "No Expiry",
       "loginMessage": "This user is Valid only For Fake Damage Fix !",
       "creationDate": "2025-06-10 15:23:59",
-      "lastUsed": "2025-06-10 15:46:21"
+      "lastUsed": "2025-06-10 15:50:25"
     }
   }
 }

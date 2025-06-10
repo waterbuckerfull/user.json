@@ -548,5 +548,13 @@
       "creationDate": "2025-06-09 11:03:11"
     }
   },
-  "FAKEDAMAGEFIX": {}
+  "FAKEDAMAGEFIX": {
+    "maska": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "This user is Valid only For Fake Damage Fix !",
+      "creationDate": "2025-06-10 15:23:59"
+    }
+  }
 }

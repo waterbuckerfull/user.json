@@ -377,15 +377,14 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Don't use Aimbot and Don't play on N32 Emulator !",
       "creationDate": "2025-06-13 10:56:36",
-      "lastUsed": "2025-06-14 09:52:33"
+      "lastUsed": "2025-06-14 10:03:02"
     },
     "Boost": {
       "password": "1",
-      "hwid": "204A8EC0-D7DA-11DD-99E6-50465DB29340",
+      "hwid": "",
       "expiryDate": "2025-07-05",
       "loginMessage": "Play on P64 and Test panel before use !",
-      "creationDate": "2025-06-14 07:12:01",
-      "lastUsed": "2025-06-14 10:02:28"
+      "creationDate": "2025-06-14 07:12:01"
     }
   },
   "INSANE": {
@@ -586,7 +585,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "This user is valid for Fake Damage Fix Only !",
       "creationDate": "2025-06-10 16:03:54",
-      "lastUsed": "2025-06-14 10:02:32"
+      "lastUsed": "2025-06-14 09:56:44"
     }
   }
 }

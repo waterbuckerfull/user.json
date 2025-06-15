@@ -259,7 +259,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-06-15 12:34:18",
+      "lastUsed": "2025-06-15 12:37:02",
       "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
     },
     "ali1122": {
@@ -389,10 +389,9 @@
     },
     "tester12": {
       "password": "1",
-      "hwid": "02006B9C-6E9F-0000-0000-000000000000",
+      "hwid": "",
       "expiryDate": "2025-06-15 13:36:31",
-      "creationDate": "2025-06-15 12:36:39",
-      "lastUsed": "2025-06-15 12:36:43"
+      "creationDate": "2025-06-15 12:36:39"
     }
   },
   "INSANE": {

@@ -1,19 +1,19 @@
 {
   "EREN": {
-    "2": {
-      "password": "2",
-      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
-      "expiryDate": "2222-02-02",
-      "creationDate": "2025-03-12 00:10:28",
-      "lastUsed": "2025-04-14 17:34:17",
-      "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
-    },
     "1": {
       "password": "1",
       "hwid": "4C4C4544-0057-5710-8036-B5C04F4D5831",
       "expiryDate": "No Expiry",
       "creationDate": "2025-03-12 00:24:07",
       "lastUsed": "2025-06-16 09:06:44",
+      "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
+    },
+    "2": {
+      "password": "2",
+      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
+      "expiryDate": "2222-02-02",
+      "creationDate": "2025-03-12 00:10:28",
+      "lastUsed": "2025-04-14 17:34:17",
       "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
     },
     "sarwal": {
@@ -393,9 +393,31 @@
       "expiryDate": "2025-06-15 13:36:31",
       "creationDate": "2025-06-15 12:36:39",
       "lastUsed": "2025-06-15 13:25:11"
+    },
+    "eren1221": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2222-02-22",
+      "creationDate": "2025-06-16T19:42:49.417Z"
     }
   },
   "INSANE": {
+    "1": {
+      "password": "1",
+      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
+      "expiryDate": "2057-10-15 22:50:30",
+      "creationDate": "2025-03-14 16:50:42",
+      "lastUsed": "2025-05-22 00:31:01",
+      "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
+    },
+    "2": {
+      "password": "2",
+      "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-05-30 16:49:27",
+      "lastUsed": "2025-06-03 17:13:22",
+      "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
+    },
     "fanta": {
       "password": "1",
       "hwid": "3168E1C0-D7DA-11DD-8697-10C37BDCCE01",
@@ -499,14 +521,6 @@
       "lastUsed": "2025-06-15 18:08:03",
       "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
     },
-    "1": {
-      "password": "1",
-      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
-      "expiryDate": "2057-10-15 22:50:30",
-      "creationDate": "2025-03-14 16:50:42",
-      "lastUsed": "2025-05-22 00:31:01",
-      "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
-    },
     "doodly": {
       "password": "1",
       "hwid": "",
@@ -552,14 +566,6 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-29 16:20:59",
       "lastUsed": "2025-06-02 13:45:40",
-      "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
-    },
-    "2": {
-      "password": "2",
-      "hwid": "4C4C4544-0052-3410-8038-C6C04F594332",
-      "expiryDate": "No Expiry",
-      "creationDate": "2025-05-30 16:49:27",
-      "lastUsed": "2025-06-03 17:13:22",
       "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
     },
     "noor": {

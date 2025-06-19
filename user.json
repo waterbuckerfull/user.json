@@ -583,6 +583,12 @@
       "creationDate": "2025-06-13 16:00:26",
       "lastUsed": "2025-06-19 15:55:37",
       "loginMessage": "🚫 N32 Emulator is currently triggering bans in Free Fire.\n✅ P64 Emulator is safe and not causing bans.\n\n🛡️ We strongly recommend switching to P64 for a safer experience."
+    },
+    "mahi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2028-11-11",
+      "creationDate": "2025-06-19T19:57:05.758Z"
     }
   },
   "FAKEDAMAGEFIX": {

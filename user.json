@@ -140,7 +140,7 @@
       "hwid": "4C4C4544-0058-3410-8030-B4C04F563732",
       "expiryDate": "No Expiry",
       "creationDate": "2025-04-25 10:02:15",
-      "lastUsed": "2025-06-20 09:39:03",
+      "lastUsed": "2025-06-19 14:22:07",
       "loginMessage": "Panel Full Safe in P64 Emulator or 5.9 version of any Emulator."
     },
     "ashish": {
@@ -587,10 +587,11 @@
     },
     "mahi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0054-4B10-8038-C3C04F465A31",
       "expiryDate": "2028-11-11",
       "creationDate": "2025-06-19T19:57:05.758Z",
-      "loginMessage": "Panel Full Safe in P64 Emulator or 5.9 version of any Emulator."
+      "loginMessage": "Panel Full Safe in P64 Emulator or 5.9 version of any Emulator.",
+      "lastUsed": "2025-06-20 09:41:23"
     }
   },
   "FAKEDAMAGEFIX": {

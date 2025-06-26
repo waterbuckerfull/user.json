@@ -614,7 +614,7 @@
   "ESP": {
     "eren": {
       "password": "1",
-      "hwid": "free",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-06-26 03:22:05"

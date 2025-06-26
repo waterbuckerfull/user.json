@@ -611,5 +611,13 @@
       "lastUsed": "2025-06-25 17:49:37"
     }
   },
-  "ESP": {}
+  "ESP": {
+    "eren": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-06-26 03:22:05"
+    }
+  }
 }

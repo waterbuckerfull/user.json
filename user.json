@@ -407,6 +407,13 @@
       "loginMessage": "This user is valid only for 3 Days.",
       "creationDate": "2025-06-27 08:06:06",
       "lastUsed": "2025-06-27 08:16:04"
+    },
+    "zog": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-30",
+      "loginMessage": "3 Day Trial !",
+      "creationDate": "2025-06-27 10:34:10"
     }
   },
   "INSANE": {

@@ -398,6 +398,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "Sexy Boiiiiiiii !",
       "creationDate": "2025-06-26 17:33:37"
+    },
+    "tester12": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-30",
+      "loginMessage": "This user is valid only for 3 Days.",
+      "creationDate": "2025-06-27 08:06:06"
     }
   },
   "INSANE": {

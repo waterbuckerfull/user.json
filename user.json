@@ -415,6 +415,13 @@
       "loginMessage": "This is Valid for 1 Day !",
       "creationDate": "2025-06-28 14:25:25",
       "lastUsed": "2025-06-28 15:03:05"
+    },
+    "zog": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-30",
+      "loginMessage": "",
+      "creationDate": "2025-06-28 17:44:20"
     }
   },
   "INSANE": {

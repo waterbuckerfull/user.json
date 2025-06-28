@@ -410,10 +410,11 @@
     },
     "davidtrial": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0031-4210-8048-C8C04F513732",
       "expiryDate": "2025-06-30",
       "loginMessage": "This is Valid for 1 Day !",
-      "creationDate": "2025-06-28 14:25:25"
+      "creationDate": "2025-06-28 14:25:25",
+      "lastUsed": "2025-06-28 15:03:05"
     }
   },
   "INSANE": {

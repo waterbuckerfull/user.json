@@ -422,6 +422,13 @@
       "expiryDate": "2025-06-30",
       "loginMessage": "",
       "creationDate": "2025-06-28 17:44:20"
+    },
+    "wadan": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-07-02",
+      "loginMessage": "This user valid for 3 Days !",
+      "creationDate": "2025-06-29 06:00:51"
     }
   },
   "INSANE": {

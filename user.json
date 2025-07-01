@@ -670,6 +670,13 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-01 19:48:15"
+    },
+    "erenfree": {
+      "password": "3days",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-01 21:23:34"
     }
   }
 }

@@ -651,10 +651,11 @@
     },
     "notgamer": {
       "password": "1",
-      "hwid": "",
+      "hwid": "00000000-0000-0000-0000-448A5B2774D5",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-07-02 13:01:55"
+      "creationDate": "2025-07-02 13:01:55",
+      "lastUsed": "2025-07-02 13:05:28"
     }
   }
 }

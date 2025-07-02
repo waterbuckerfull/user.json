@@ -399,44 +399,6 @@
       "loginMessage": "Sexy Boiiiiiiii Hassan !",
       "creationDate": "2025-06-26 17:33:37",
       "lastUsed": "2025-06-27 08:57:11"
-    },
-    "tester12": {
-      "password": "1",
-      "hwid": "3114F560-D7DA-11DD-BCDF-1C872C5C6F0F",
-      "expiryDate": "2025-06-30",
-      "loginMessage": "This user is valid only for 3 Days.",
-      "creationDate": "2025-06-27 08:06:06",
-      "lastUsed": "2025-06-27 08:16:04"
-    },
-    "davidtrial": {
-      "password": "1",
-      "hwid": "4C4C4544-0031-4210-8048-C8C04F513732",
-      "expiryDate": "2025-06-30",
-      "loginMessage": "This is Valid for 1 Day !",
-      "creationDate": "2025-06-28 14:25:25",
-      "lastUsed": "2025-06-28 15:03:05"
-    },
-    "zog": {
-      "password": "1",
-      "hwid": "B09E8B2B-F766-604D-803A-EB1CFD0EF330",
-      "expiryDate": "2025-06-30",
-      "loginMessage": "",
-      "creationDate": "2025-06-28 17:44:20",
-      "lastUsed": "2025-06-29 10:30:39"
-    },
-    "wadan": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-07-02",
-      "loginMessage": "This user valid for 3 Days !",
-      "creationDate": "2025-06-29 06:00:51"
-    },
-    "yasir": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-07-01",
-      "loginMessage": "Valid for 2 Days !",
-      "creationDate": "2025-06-29 12:55:37"
     }
   },
   "INSANE": {

@@ -684,6 +684,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-03 17:38:20"
+    },
+    "blacky": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-03 17:45:18"
     }
   }
 }

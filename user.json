@@ -693,6 +693,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-03 17:45:18",
       "lastUsed": "2025-07-03 17:45:47"
+    },
+    "rohan": {
+      "password": "11",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-03 18:37:43"
     }
   }
 }

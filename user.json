@@ -687,10 +687,11 @@
     },
     "blacky": {
       "password": "1",
-      "hwid": "",
+      "hwid": "37323D23-C854-11E6-9C43-BC0000A80000",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-07-03 17:45:18"
+      "creationDate": "2025-07-03 17:45:18",
+      "lastUsed": "2025-07-03 17:45:47"
     }
   }
 }

@@ -673,10 +673,11 @@
     },
     "amir": {
       "password": "1",
-      "hwid": "",
+      "hwid": "E91A3D7E-CB7D-E56B-E85E-3497F6A2B419",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-07-03 17:02:26"
+      "creationDate": "2025-07-03 17:02:26",
+      "lastUsed": "2025-07-03 03:47:42"
     },
     "hammad111": {
       "password": "1",

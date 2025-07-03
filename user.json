@@ -670,6 +670,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-02 13:01:55",
       "lastUsed": "2025-07-03 13:36:17"
+    },
+    "amir": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-03 16:51:54"
     }
   }
 }

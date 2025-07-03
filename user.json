@@ -700,6 +700,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-03 18:37:43"
+    },
+    "frenzy": {
+      "password": "11",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-03 18:37:52"
     }
   }
 }

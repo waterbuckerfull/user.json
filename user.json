@@ -700,6 +700,12 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-03 18:37:52"
+    },
+    "faded": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-05 05:56:30"
     }
   }
 }

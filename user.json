@@ -597,6 +597,12 @@
       "creationDate": "2025-06-22 10:54:55",
       "lastUsed": "2025-07-02 23:13:46",
       "loginMessage": "Enjoy Panel !"
+    },
+    "hasan": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-06 11:18:01"
     }
   },
   "FAKEDAMAGEFIX": {

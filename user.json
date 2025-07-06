@@ -600,10 +600,9 @@
     },
     "hasan": {
       "password": "1",
-      "hwid": "C91BE1CB-9062-EC91-6984-049226CE2029",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-07-06 11:18:01",
-      "lastUsed": "2025-07-06 17:52:47"
+      "creationDate": "2025-07-06 11:18:01"
     }
   },
   "FAKEDAMAGEFIX": {
@@ -676,7 +675,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-03 17:02:26",
-      "lastUsed": "2025-07-06 17:39:17"
+      "lastUsed": "2025-07-06 17:53:20"
     },
     "hammad111": {
       "password": "1",

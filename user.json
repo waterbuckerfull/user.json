@@ -606,10 +606,9 @@
     },
     "bypasscus": {
       "password": "1",
-      "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-07-06 19:28:40",
-      "lastUsed": "2025-07-06 19:42:43"
+      "creationDate": "2025-07-06 19:28:40"
     }
   },
   "FAKEDAMAGEFIX": {
@@ -658,7 +657,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-01 21:23:34",
-      "lastUsed": "2025-07-06 19:40:09"
+      "lastUsed": "2025-07-06 19:45:53"
     },
     "esp": {
       "password": "1",

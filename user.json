@@ -603,6 +603,12 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-06 11:18:01"
+    },
+    "bypasscus": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-06 19:28:40"
     }
   },
   "FAKEDAMAGEFIX": {

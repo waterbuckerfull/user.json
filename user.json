@@ -579,7 +579,7 @@
       "hwid": "B7EA2774-4E6D-1320-0924-105832000000",
       "expiryDate": "No Expiry",
       "creationDate": "2025-06-13 16:00:26",
-      "lastUsed": "2025-07-07 06:16:14",
+      "lastUsed": "2025-07-07 05:48:16",
       "loginMessage": "Enjoy Panel !"
     },
     "mahi": {
@@ -606,9 +606,10 @@
     },
     "bypasscus": {
       "password": "1",
-      "hwid": "",
+      "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-07-06 19:28:40"
+      "creationDate": "2025-07-06 19:28:40",
+      "lastUsed": "2025-07-07 06:18:17"
     }
   },
   "FAKEDAMAGEFIX": {

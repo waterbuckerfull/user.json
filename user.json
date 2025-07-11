@@ -772,6 +772,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-11 17:39:33",
       "lastUsed": "2025-07-11 17:44:30"
+    },
+    "maska": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-25",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 18:57:57"
     }
   },
   "AUTHENTICATION": {

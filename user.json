@@ -780,6 +780,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-11 18:58:51",
       "lastUsed": "2025-07-11 19:03:45"
+    },
+    "goten": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 19:17:29"
     }
   },
   "AUTHENTICATION": {

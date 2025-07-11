@@ -774,5 +774,13 @@
       "lastUsed": "2025-07-11 17:44:30"
     }
   },
-  "AUTHENTICATION": {}
+  "AUTHENTICATION": {
+    "maska": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 17:50:31"
+    }
+  }
 }

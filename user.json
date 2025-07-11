@@ -775,10 +775,11 @@
     },
     "maska": {
       "password": "1",
-      "hwid": "",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
       "expiryDate": "2025-12-07",
       "loginMessage": "",
-      "creationDate": "2025-07-11 18:58:51"
+      "creationDate": "2025-07-11 18:58:51",
+      "lastUsed": "2025-07-11 19:03:45"
     }
   },
   "AUTHENTICATION": {

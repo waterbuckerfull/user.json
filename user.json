@@ -763,14 +763,5 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-07 15:32:51"
     }
-  },
-  "B4EVER": {
-    "maska": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "You are the Owner of this Panel !",
-      "creationDate": "2025-07-11 15:21:10"
-    }
   }
 }

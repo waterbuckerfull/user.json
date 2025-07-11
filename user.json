@@ -764,5 +764,13 @@
       "creationDate": "2025-07-07 15:32:51"
     }
   },
-  "B4EVER": {}
+  "B4EVER": {
+    "1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-06-25",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 17:33:57"
+    }
+  }
 }

@@ -787,6 +787,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-11 19:17:29"
+    },
+    "kafi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-07-13",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 19:21:03"
     }
   },
   "AUTHENTICATION": {

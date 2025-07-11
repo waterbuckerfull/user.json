@@ -784,10 +784,11 @@
     },
     "1": {
       "password": "1",
-      "hwid": "",
+      "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-07-11 17:51:18"
+      "creationDate": "2025-07-11 17:51:18",
+      "lastUsed": "2025-07-11 17:57:47"
     }
   }
 }

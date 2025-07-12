@@ -798,10 +798,11 @@
     },
     "baristo": {
       "password": "1",
-      "hwid": "",
+      "hwid": "E3D3B38D-D2AB-11ED-935B-401A58155E15",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-07-12 08:01:34"
+      "creationDate": "2025-07-12 08:01:34",
+      "lastUsed": "2025-07-12 08:06:09"
     }
   },
   "AUTHENTICATION": {

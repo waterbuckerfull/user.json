@@ -795,6 +795,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-11 19:21:03",
       "lastUsed": "2025-07-11 20:29:33"
+    },
+    "baristo": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-12 08:01:34"
     }
   },
   "AUTHENTICATION": {

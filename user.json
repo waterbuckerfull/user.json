@@ -783,10 +783,11 @@
     },
     "goten": {
       "password": "1",
-      "hwid": "",
+      "hwid": "FD8BD55F-8F6C-F949-6016-60CF84600391",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-07-11 19:17:29"
+      "creationDate": "2025-07-11 19:17:29",
+      "lastUsed": "2025-07-12 11:09:19"
     },
     "kafi": {
       "password": "1",

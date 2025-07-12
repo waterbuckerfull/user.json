@@ -634,6 +634,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-12 20:11:47",
       "lastUsed": "2025-07-12 20:37:16"
+    },
+    "kalil": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-12 20:45:25"
     }
   },
   "FAKEDAMAGEFIX": {

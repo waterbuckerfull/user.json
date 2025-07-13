@@ -584,10 +584,10 @@
     },
     "emily": {
       "password": "1",
-      "hwid": "D08BDCDC-2CCC-E9AE-6012-C87F54086DF6",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-29 16:20:59",
-      "lastUsed": "2025-07-13 15:15:04",
+      "lastUsed": "2025-06-02 13:45:40",
       "loginMessage": "Enjoy Panel !"
     },
     "zunair": {
@@ -816,7 +816,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-12 08:01:34",
-      "lastUsed": "2025-07-13 14:55:45"
+      "lastUsed": "2025-07-13 15:14:57"
     },
     "abdi": {
       "password": "1",

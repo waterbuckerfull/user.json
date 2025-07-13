@@ -820,10 +820,11 @@
     },
     "haji": {
       "password": "1",
-      "hwid": "",
+      "hwid": "7FA37F00-C8EA-7516-A420-345A603DD267",
       "expiryDate": "2025-07-15",
       "loginMessage": "",
-      "creationDate": "2025-07-13 13:27:50"
+      "creationDate": "2025-07-13 13:27:50",
+      "lastUsed": "2025-07-13 19:22:28"
     }
   },
   "AUTHENTICATION": {

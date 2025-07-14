@@ -828,10 +828,11 @@
     },
     "caamir": {
       "password": "1",
-      "hwid": "",
+      "hwid": "E9983DEB-AD27-EF11-A4F6-28C5C82CBB59",
       "expiryDate": "2025-08-05",
       "loginMessage": "",
-      "creationDate": "2025-07-14 19:54:11"
+      "creationDate": "2025-07-14 19:54:11",
+      "lastUsed": "2025-07-14 19:54:40"
     }
   },
   "AUTHENTICATION": {

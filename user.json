@@ -835,10 +835,11 @@
     },
     "cilmi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "E9983DEB-AD27-EF11-A4F6-28C5C82CBB59",
       "expiryDate": "2025-08-05",
       "loginMessage": "",
-      "creationDate": "2025-07-14 20:18:43"
+      "creationDate": "2025-07-14 20:18:43",
+      "lastUsed": "2025-07-14 20:22:03"
     }
   },
   "AUTHENTICATION": {

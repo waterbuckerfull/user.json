@@ -840,6 +840,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-14 20:18:43",
       "lastUsed": "2025-07-14 20:22:03"
+    },
+    "khalid": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-07-16",
+      "loginMessage": "",
+      "creationDate": "2025-07-14 20:26:20"
     }
   },
   "AUTHENTICATION": {

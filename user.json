@@ -832,6 +832,13 @@
       "expiryDate": "2025-08-05",
       "loginMessage": "",
       "creationDate": "2025-07-14 20:16:27"
+    },
+    "cilmi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-08-05",
+      "loginMessage": "",
+      "creationDate": "2025-07-14 20:18:43"
     }
   },
   "AUTHENTICATION": {

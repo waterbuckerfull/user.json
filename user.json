@@ -843,10 +843,11 @@
     },
     "khalid": {
       "password": "1",
-      "hwid": "",
+      "hwid": "A5E1BC95-DBAF-11E5-9C43-BC00001A0000",
       "expiryDate": "2025-07-16",
       "loginMessage": "",
-      "creationDate": "2025-07-14 20:26:20"
+      "creationDate": "2025-07-14 20:26:20",
+      "lastUsed": "2025-07-14 20:29:13"
     }
   },
   "AUTHENTICATION": {

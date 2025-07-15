@@ -832,6 +832,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-14 20:26:20",
       "lastUsed": "2025-07-15 13:39:16"
+    },
+    "haji": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-08-05",
+      "loginMessage": "",
+      "creationDate": "2025-07-15 14:35:24"
     }
   },
   "AUTHENTICATION": {

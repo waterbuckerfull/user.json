@@ -832,6 +832,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-16 15:18:40",
       "lastUsed": "2025-07-16 16:25:44"
+    },
+    "kafi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-08-01",
+      "loginMessage": "",
+      "creationDate": "2025-07-16 16:45:44"
     }
   },
   "AUTHENTICATION": {

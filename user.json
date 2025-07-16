@@ -619,7 +619,7 @@
       "hwid": "C91BE1CB-9062-EC91-6984-049226CE2029",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-06 11:18:01",
-      "lastUsed": "2025-07-16 16:59:50"
+      "lastUsed": "2025-07-15 18:35:47"
     },
     "bypasscus": {
       "password": "1",
@@ -689,7 +689,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-01 21:23:34",
-      "lastUsed": "2025-07-16 17:03:29"
+      "lastUsed": "2025-07-16 16:46:55"
     },
     "esp": {
       "password": "1",
@@ -835,10 +835,11 @@
     },
     "kafi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "D3C28570-6FC7-0000-0000-000000000000",
       "expiryDate": "2025-08-01",
       "loginMessage": "",
-      "creationDate": "2025-07-16 16:45:44"
+      "creationDate": "2025-07-16 16:45:44",
+      "lastUsed": "2025-07-16 17:04:24"
     }
   },
   "AUTHENTICATION": {

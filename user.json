@@ -640,6 +640,18 @@
       "hwid": "",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-12 20:45:25"
+    },
+    "tester1": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-07-20",
+      "creationDate": "2025-07-17 20:31:23"
+    },
+    "tester2": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-07-20",
+      "creationDate": "2025-07-17 20:31:23"
     }
   },
   "FAKEDAMAGEFIX": {

@@ -855,10 +855,11 @@
     },
     "abdi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "BEA60288-033A-B616-A1FF-D843AE9FEB17",
       "expiryDate": "2025-08-01",
       "loginMessage": "",
-      "creationDate": "2025-07-17 21:04:14"
+      "creationDate": "2025-07-17 21:04:14",
+      "lastUsed": "2025-07-17 21:05:26"
     }
   },
   "AUTHENTICATION": {

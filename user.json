@@ -629,9 +629,10 @@
     },
     "kalil": {
       "password": "1",
-      "hwid": "",
+      "hwid": "42536F80-C4C2-11E2-B01C-8851FB46C861",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-07-12 20:45:25"
+      "creationDate": "2025-07-12 20:45:25",
+      "lastUsed": "2025-07-18 10:28:37"
     },
     "tester1": {
       "password": "1",

@@ -644,6 +644,12 @@
       "hwid": "",
       "expiryDate": "2025-07-20",
       "creationDate": "2025-07-17 20:31:23"
+    },
+    "waheed": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-18 08:58:50"
     }
   },
   "FAKEDAMAGEFIX": {

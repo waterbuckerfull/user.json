@@ -632,7 +632,7 @@
       "hwid": "42536F80-C4C2-11E2-B01C-8851FB46C861",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-12 20:45:25",
-      "lastUsed": "2025-07-18 10:35:15"
+      "lastUsed": "2025-07-18 10:50:32"
     },
     "tester1": {
       "password": "1",
@@ -648,10 +648,9 @@
     },
     "waheed": {
       "password": "1",
-      "hwid": "4C4C4544-0030-5710-8043-C2C04F473432",
+      "hwid": "",
       "expiryDate": "No Expiry",
-      "creationDate": "2025-07-18 08:58:50",
-      "lastUsed": "2025-07-18 10:47:29"
+      "creationDate": "2025-07-18 08:58:50"
     }
   },
   "FAKEDAMAGEFIX": {

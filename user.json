@@ -834,10 +834,11 @@
     },
     "kafi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "D3C28570-6FC7-0000-0000-000000000000",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-07-21 18:17:49"
+      "creationDate": "2025-07-21 18:17:49",
+      "lastUsed": "2025-12-02 07:18:16"
     }
   },
   "AUTHENTICATION": {

@@ -852,6 +852,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-17 21:04:14",
       "lastUsed": "2025-07-19 15:59:22"
+    },
+    "zack": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-21 10:51:11"
     }
   },
   "AUTHENTICATION": {

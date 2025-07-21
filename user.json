@@ -855,10 +855,11 @@
     },
     "zack": {
       "password": "1",
-      "hwid": "",
+      "hwid": "2B176878-E01D-3D97-4D6E-581122C7A7E3",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-07-21 10:51:11"
+      "creationDate": "2025-07-21 10:51:11",
+      "lastUsed": "2025-07-21 10:52:16"
     }
   },
   "AUTHENTICATION": {

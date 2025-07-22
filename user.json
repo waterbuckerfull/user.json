@@ -615,6 +615,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-20 19:46:52",
       "lastUsed": "2025-07-21 21:13:52"
+    },
+    "zunair": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-22 06:31:51"
     }
   },
   "FAKEDAMAGEFIX": {

@@ -412,6 +412,13 @@
       "expiryDate": "2025-08-06 17:51:04",
       "creationDate": "2025-07-23 17:51:16",
       "lastUsed": "2025-07-24 12:42:11"
+    },
+    "papi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "Enjoy user !",
+      "creationDate": "2025-07-25 20:17:39"
     }
   },
   "INSANE": {

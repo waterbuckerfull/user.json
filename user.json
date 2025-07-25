@@ -415,10 +415,11 @@
     },
     "papi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "D7684A55-898C-511B-AA48-D843AE4496DB",
       "expiryDate": "No Expiry",
       "loginMessage": "Enjoy user !",
-      "creationDate": "2025-07-25 20:17:39"
+      "creationDate": "2025-07-25 20:17:39",
+      "lastUsed": "2025-07-25 20:20:23"
     }
   },
   "INSANE": {

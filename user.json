@@ -423,10 +423,11 @@
     },
     "juice": {
       "password": "1",
-      "hwid": "",
+      "hwid": "E01F59BA-8FE6-4A1A-ABB3-345A607E9347",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-07-26 14:18:44"
+      "creationDate": "2025-07-26 14:18:44",
+      "lastUsed": "2025-07-26 14:21:32"
     }
   },
   "INSANE": {

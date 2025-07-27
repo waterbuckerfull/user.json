@@ -652,6 +652,12 @@
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-23 20:44:49",
       "lastUsed": "2025-07-27 18:09:30"
+    },
+    "tester2": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "creationDate": "2025-07-27 19:49:29"
     }
   },
   "FAKEDAMAGEFIX": {

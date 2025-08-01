@@ -626,7 +626,7 @@
       "hwid": "943B6C00-509C-11E4-A472-A0D3C14B0136",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-12 20:11:47",
-      "lastUsed": "2025-08-01 22:35:24"
+      "lastUsed": "2025-08-01 22:29:04"
     },
     "kalil": {
       "password": "1",
@@ -872,10 +872,11 @@
     },
     "fire": {
       "password": "1",
-      "hwid": "",
+      "hwid": "E7565CE2-D312-11EC-8E57-70A8D3922EF2",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-01 21:43:05"
+      "creationDate": "2025-08-01 21:43:05",
+      "lastUsed": "2025-08-02 00:34:38"
     },
     "abdi": {
       "password": "1",

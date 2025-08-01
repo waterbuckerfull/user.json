@@ -869,6 +869,13 @@
       "loginMessage": "",
       "creationDate": "2025-07-21 18:17:49",
       "lastUsed": "2025-08-01 12:52:57"
+    },
+    "fire": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-01 21:37:13"
     }
   },
   "AUTHENTICATION": {

@@ -718,7 +718,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-01 21:23:34",
-      "lastUsed": "2025-08-01 22:31:36"
+      "lastUsed": "2025-08-01 18:37:07"
     },
     "esp": {
       "password": "1",
@@ -872,11 +872,10 @@
     },
     "fire": {
       "password": "1",
-      "hwid": "E7565CE2-D312-11EC-8E57-70A8D3922EF2",
+      "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-01 21:43:05",
-      "lastUsed": "2025-08-02 00:34:38"
+      "creationDate": "2025-08-01 21:43:05"
     },
     "abdi": {
       "password": "1",

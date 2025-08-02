@@ -879,10 +879,11 @@
     },
     "abdi": {
       "password": "1",
-      "hwid": "",
+      "hwid": "BEA60288-033A-B616-A1FF-D843AE9FEB17",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-01 21:44:35"
+      "creationDate": "2025-08-01 21:44:35",
+      "lastUsed": "2025-08-02 01:04:03"
     }
   },
   "AUTHENTICATION": {

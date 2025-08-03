@@ -438,13 +438,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "This user valid for 1 day !",
       "creationDate": "2025-08-01 07:13:23"
-    },
-    "oggy": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "Enjoy Oggy Bro !",
-      "creationDate": "2025-08-03 12:23:59"
     }
   },
   "INSANE": {
@@ -579,7 +572,7 @@
       "hwid": "73B9AC95-D91B-12D7-2B30-727E3D84D577",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-06 16:13:43",
-      "lastUsed": "2025-08-02 16:57:34",
+      "lastUsed": "2025-08-03 12:25:36",
       "loginMessage": "Enjoy Panel !"
     },
     "ffhamza": {
@@ -668,7 +661,7 @@
       "hwid": "6634FA1D-9C0B-11E7-9C43-BC0000A60000",
       "expiryDate": "No Expiry",
       "creationDate": "2025-07-23 20:44:49",
-      "lastUsed": "2025-08-03 12:23:30"
+      "lastUsed": "2025-08-03 09:25:35"
     },
     "tester2": {
       "password": "1",

@@ -903,14 +903,6 @@
     }
   },
   "AUTHENTICATION": {
-    "maska": {
-      "password": "1",
-      "hwid": "03560274-043C-0552-ED06-1D0700080009",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-07-11 17:50:31",
-      "lastUsed": "2025-07-25 19:25:51"
-    },
     "1": {
       "password": "1",
       "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",

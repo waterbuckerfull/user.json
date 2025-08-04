@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-04 10:21:59",
+      "lastUsed": "2025-08-04 11:24:04",
       "loginMessage": "Test Sniper Scope First !\r\nAll other Features Safe !\r\nRun Panel as Admin !"
     },
     "ali1122": {
@@ -903,6 +903,14 @@
     }
   },
   "AUTHENTICATION": {
+    "maska": {
+      "password": "1",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 17:50:31",
+      "lastUsed": "2025-07-25 19:25:51"
+    },
     "1": {
       "password": "1",
       "hwid": "4C4C4544-0034-5410-8032-C3C04F5A3732",
@@ -910,13 +918,6 @@
       "loginMessage": "",
       "creationDate": "2025-07-11 17:51:18",
       "lastUsed": "2025-08-02 09:16:59"
-    },
-    "masud1212": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-04 11:23:28"
     }
   },
   "1": {}

@@ -884,6 +884,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-04 13:46:03"
+    },
+    "moha": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-04 13:48:19"
     }
   },
   "AUTHENTICATION": {

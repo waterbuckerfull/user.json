@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-04 11:39:32",
+      "lastUsed": "2025-08-04 11:41:12",
       "loginMessage": "Test Sniper Scope First !\r\nAll other Features Safe !\r\nRun Panel as Admin !"
     },
     "ali1122": {
@@ -860,6 +860,14 @@
       "loginMessage": "",
       "creationDate": "2025-07-15 14:35:24",
       "lastUsed": "2025-08-03 23:51:26"
+    },
+    "khalid": {
+      "password": "1",
+      "hwid": "A5E1BC95-DBAF-11E5-9C43-BC00001A0000",
+      "expiryDate": "2025-08-01",
+      "loginMessage": "",
+      "creationDate": "2025-07-16 15:18:40",
+      "lastUsed": "2025-07-29 18:56:21"
     },
     "zack": {
       "password": "1",

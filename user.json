@@ -921,10 +921,11 @@
     },
     "user12": {
       "password": "1",
-      "hwid": "",
+      "hwid": "E7565CE2-D312-11EC-8E57-70A8D3922EF2",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-04 11:36:09"
+      "creationDate": "2025-08-04 11:36:09",
+      "lastUsed": "2025-08-04 13:43:34"
     }
   },
   "1": {}

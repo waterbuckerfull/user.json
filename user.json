@@ -453,6 +453,13 @@
       "expiryDate": "2025-08-06",
       "loginMessage": "Only for 2 Days !",
       "creationDate": "2025-08-04 03:41:39"
+    },
+    "mashrafee": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "7 $ Amount Pending !",
+      "creationDate": "2025-08-04 12:06:25"
     }
   },
   "INSANE": {

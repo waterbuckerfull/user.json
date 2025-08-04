@@ -887,10 +887,11 @@
     },
     "haji": {
       "password": "1",
-      "hwid": "",
+      "hwid": "7FA37F00-C8EA-7516-A420-345A603DD267",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-04 13:46:03"
+      "creationDate": "2025-08-04 13:46:03",
+      "lastUsed": "2025-08-04 14:40:05"
     },
     "moha": {
       "password": "1",

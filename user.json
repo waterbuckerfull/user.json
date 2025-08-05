@@ -914,6 +914,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-05 15:24:29"
+    },
+    "camir": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-08-05 15:36:09"
     }
   },
   "AUTHENTICATION": {

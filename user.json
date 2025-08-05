@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-05 16:52:28",
+      "lastUsed": "2025-08-05 16:53:33",
       "loginMessage": "User/Pass Updated EveryDay !"
     },
     "ali1122": {
@@ -432,6 +432,13 @@
       "creationDate": "2025-07-26 14:18:44",
       "lastUsed": "2025-07-27 16:50:34"
     },
+    "test1day": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "This user valid for 1 day !",
+      "creationDate": "2025-08-01 07:13:23"
+    },
     "oggy": {
       "password": "1",
       "hwid": "4C4C4544-0046-5310-8052-B3C04F563634",
@@ -453,13 +460,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "7 $ Amount Pending !",
       "creationDate": "2025-08-04 12:06:25"
-    },
-    "zahoor": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "This user valid for 1 day !",
-      "creationDate": "2025-08-01 07:13:23"
     }
   },
   "INSANE": {

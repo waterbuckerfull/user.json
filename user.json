@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-05 14:04:29",
+      "lastUsed": "2025-08-05 14:04:28",
       "loginMessage": "User/Pass Updated EveryDay !"
     },
     "ali1122": {
@@ -910,10 +910,11 @@
     },
     "caamir": {
       "password": "1",
-      "hwid": "",
+      "hwid": "E9983DEB-AD27-EF11-A4F6-28C5C82CBB59",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-05 15:24:29"
+      "creationDate": "2025-08-05 15:24:29",
+      "lastUsed": "2025-08-05 14:03:29"
     }
   },
   "AUTHENTICATION": {

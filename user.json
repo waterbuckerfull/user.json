@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-06 23:01:52",
+      "lastUsed": "2025-08-06 23:15:38",
       "loginMessage": "Free User Pass Updates every day."
     },
     "ali1122": {
@@ -702,10 +702,9 @@
     },
     "ashi": {
       "password": "1",
-      "hwid": "D499F20D-E675-11E4-9C43-BC0000160000",
+      "hwid": "",
       "expiryDate": "2025-08-10",
-      "creationDate": "2025-08-06 19:23:09",
-      "lastUsed": "2025-08-06 23:14:50"
+      "creationDate": "2025-08-06 19:23:09"
     }
   },
   "FAKEDAMAGEFIX": {

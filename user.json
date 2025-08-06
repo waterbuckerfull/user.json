@@ -911,10 +911,11 @@
     },
     "camir": {
       "password": "1",
-      "hwid": "",
+      "hwid": "E9983DEB-AD27-EF11-A4F6-28C5C82CBB59",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-08-06 16:30:09"
+      "creationDate": "2025-08-06 16:30:09",
+      "lastUsed": "2025-08-06 14:32:45"
     }
   },
   "AUTHENTICATION": {

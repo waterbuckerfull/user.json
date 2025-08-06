@@ -699,6 +699,12 @@
       "expiryDate": "2025-8-8",
       "creationDate": "2025-08-05 10:34:32",
       "lastUsed": "2025-08-05 11:37:29"
+    },
+    "ashi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-08-10",
+      "creationDate": "2025-08-06 19:23:09"
     }
   },
   "FAKEDAMAGEFIX": {

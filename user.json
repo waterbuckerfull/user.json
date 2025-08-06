@@ -243,7 +243,7 @@
       "hwid": "free",
       "expiryDate": "No Expiry",
       "creationDate": "2025-05-17 18:28:55",
-      "lastUsed": "2025-08-06 14:26:43",
+      "lastUsed": "2025-08-06 14:31:39",
       "loginMessage": "Free User Pass Updates every day."
     },
     "ali1122": {
@@ -916,13 +916,6 @@
       "loginMessage": "",
       "creationDate": "2025-08-05 15:24:29",
       "lastUsed": "2025-08-06 12:22:27"
-    },
-    "camir": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-08-06 16:30:09"
     }
   },
   "AUTHENTICATION": {
@@ -948,7 +941,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-04 11:36:09",
-      "lastUsed": "2025-08-06 16:29:52"
+      "lastUsed": "2025-08-04 14:27:44"
     }
   },
   "1": {}

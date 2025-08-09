@@ -401,14 +401,6 @@
       "creationDate": "2025-07-07 18:46:58",
       "lastUsed": "2025-07-08 03:03:12"
     },
-    "boost2": {
-      "password": "1",
-      "hwid": "4C4C4544-0032-3510-805A-B6C04F353534",
-      "expiryDate": "2025-08-06 17:51:04",
-      "creationDate": "2025-07-23 17:51:16",
-      "lastUsed": "2025-07-24 12:42:11",
-      "loginMessage": "Use Only !\r\nAimbot Head,Female Fix\r\nAnd any Location !"
-    },
     "papi": {
       "password": "1",
       "hwid": "D7684A55-898C-511B-AA48-D843AE4496DB",
@@ -432,13 +424,6 @@
       "loginMessage": "Enjoy Oggy Bro !",
       "creationDate": "2025-08-03 12:23:59",
       "lastUsed": "2025-08-03 12:27:47"
-    },
-    "baristo": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-08-06",
-      "loginMessage": "Only for 2 Days !",
-      "creationDate": "2025-08-04 03:41:39"
     },
     "mashrafee": {
       "password": "1",
@@ -693,13 +678,6 @@
       "creationDate": "2025-07-27 19:49:29",
       "lastUsed": "2025-08-04 12:33:19"
     },
-    "grim": {
-      "password": "1",
-      "hwid": "0DF71078-F688-D0B7-5BC5-6036B1B46498",
-      "expiryDate": "2025-8-8",
-      "creationDate": "2025-08-05 10:34:32",
-      "lastUsed": "2025-08-05 11:37:29"
-    },
     "ashi": {
       "password": "1",
       "hwid": "D499F20D-E675-11E4-9C43-BC0000160000",
@@ -923,13 +901,6 @@
       "loginMessage": "",
       "creationDate": "2025-08-05 15:24:29",
       "lastUsed": "2025-08-08 10:40:00"
-    },
-    "abdullahi": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-06-25",
-      "loginMessage": "",
-      "creationDate": "2025-08-09 17:45:25"
     }
   },
   "AUTHENTICATION": {

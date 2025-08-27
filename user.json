@@ -916,6 +916,13 @@
       "loginMessage": "",
       "creationDate": "2025-08-09 17:49:18",
       "lastUsed": "2025-08-26 15:28:02"
+    },
+    "KHAALID": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2025-09-27",
+      "loginMessage": "",
+      "creationDate": "2025-08-27 22:19:13"
     }
   },
   "AUTHENTICATION": {

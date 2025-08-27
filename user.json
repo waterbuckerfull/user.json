@@ -726,7 +726,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-01 21:23:34",
-      "lastUsed": "2025-08-27 20:01:27"
+      "lastUsed": "2025-08-27 20:27:55"
     },
     "esp": {
       "password": "1",
@@ -905,11 +905,10 @@
     },
     "KHAALID": {
       "password": "1",
-      "hwid": "A5E1BC95-DBAF-11E5-9C43-BC00001A0000",
+      "hwid": "",
       "expiryDate": "2025-09-27",
       "loginMessage": "",
-      "creationDate": "2025-08-27 22:19:13",
-      "lastUsed": "2025-08-27 20:25:25"
+      "creationDate": "2025-08-27 22:19:13"
     }
   },
   "AUTHENTICATION": {

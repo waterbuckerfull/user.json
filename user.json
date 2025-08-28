@@ -913,10 +913,11 @@
     },
     "user1": {
       "password": "2",
-      "hwid": "",
+      "hwid": "17A8B8C4-EDC4-EECF-A8C6-0AECA10E4417",
       "expiryDate": "2025-10-04",
       "loginMessage": "",
-      "creationDate": "2025-08-28 21:29:56"
+      "creationDate": "2025-08-28 21:29:56",
+      "lastUsed": "2025-08-28 19:34:05"
     }
   },
   "AUTHENTICATION": {

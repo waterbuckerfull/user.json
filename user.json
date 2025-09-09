@@ -912,11 +912,12 @@
       "lastUsed": "2025-09-08 20:00:10"
     },
     "user1": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "2025-09-17",
+      "password": "2",
+      "hwid": "17A8B8C4-EDC4-EECF-A8C6-0AECA10E4417",
+      "expiryDate": "2025-10-04",
       "loginMessage": "",
-      "creationDate": "2025-09-09 16:19:41"
+      "creationDate": "2025-08-28 21:29:56",
+      "lastUsed": "2025-09-09 14:21:58"
     }
   },
   "AUTHENTICATION": {
@@ -942,7 +943,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-08-04 11:36:09",
-      "lastUsed": "2025-09-09 16:17:28"
+      "lastUsed": "2025-08-28 21:29:27"
     }
   },
   "1": {}

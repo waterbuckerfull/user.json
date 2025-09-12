@@ -903,6 +903,13 @@
       "loginMessage": "",
       "creationDate": "2025-08-28 21:29:56",
       "lastUsed": "2025-09-11 16:14:22"
+    },
+    "zack": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-09-12 15:30:30"
     }
   },
   "AUTHENTICATION": {

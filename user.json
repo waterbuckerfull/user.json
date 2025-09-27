@@ -902,6 +902,13 @@
       "loginMessage": "",
       "creationDate": "2025-09-12 15:30:30",
       "lastUsed": "2025-09-16 12:55:43"
+    },
+    "pablo": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-09-27 22:17:50"
     }
   },
   "AUTHENTICATION": {

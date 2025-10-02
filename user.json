@@ -920,10 +920,11 @@
     },
     "toxic": {
       "password": "1",
-      "hwid": "",
+      "hwid": "FFB9D1E8-AAF1-4F28-B10F-183D2DBBE2CF",
       "expiryDate": "2025-10-08",
       "loginMessage": "",
-      "creationDate": "2025-10-02 20:26:13"
+      "creationDate": "2025-10-02 20:26:13",
+      "lastUsed": "2025-10-02 21:14:15"
     }
   },
   "AUTHENTICATION": {

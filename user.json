@@ -917,6 +917,13 @@
       "loginMessage": "",
       "creationDate": "2025-10-02 20:26:13",
       "lastUsed": "2025-10-04 17:11:40"
+    },
+    "user1": {
+      "password": "2",
+      "hwid": "",
+      "expiryDate": "2025-10-11",
+      "loginMessage": "",
+      "creationDate": "2025-10-04 17:28:15"
     }
   },
   "AUTHENTICATION": {

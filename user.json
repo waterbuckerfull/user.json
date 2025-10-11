@@ -912,10 +912,11 @@
     },
     "user": {
       "password": "2",
-      "hwid": "",
+      "hwid": "17A8B8C4-EDC4-EECF-A8C6-0AECA10E4417",
       "expiryDate": "2025-10-18",
       "loginMessage": "",
-      "creationDate": "2025-10-11 16:27:47"
+      "creationDate": "2025-10-11 16:27:47",
+      "lastUsed": "2025-10-11 16:34:41"
     }
   },
   "AUTHENTICATION": {

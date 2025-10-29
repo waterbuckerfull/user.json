@@ -853,6 +853,13 @@
       "expiryDate": "2026-01-28",
       "loginMessage": "",
       "creationDate": "2025-10-29 22:40:37"
+    },
+    "santz": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-01-21",
+      "loginMessage": "",
+      "creationDate": "2025-10-29 23:33:46"
     }
   },
   "AUTHENTICATION": {

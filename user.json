@@ -846,6 +846,13 @@
       "loginMessage": "",
       "creationDate": "2025-08-05 15:24:29",
       "lastUsed": "2025-10-29 11:07:20"
+    },
+    "abdi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-01-28",
+      "loginMessage": "",
+      "creationDate": "2025-10-29 22:40:37"
     }
   },
   "AUTHENTICATION": {

@@ -853,14 +853,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-09-27 22:17:50"
-    },
-    "user": {
-      "password": "1",
-      "hwid": "17A8B8C4-EDC4-EECF-A8C6-0AECA10E4417",
-      "expiryDate": "2025-10-30",
-      "loginMessage": "",
-      "creationDate": "2025-10-22 22:50:57",
-      "lastUsed": "2025-10-29 15:01:37"
     }
   },
   "AUTHENTICATION": {

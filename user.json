@@ -860,6 +860,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-10-30 14:36:12"
+    },
+    "santo": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-10-30 20:59:39"
     }
   },
   "AUTHENTICATION": {

@@ -930,6 +930,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-04 15:10:10"
+    },
+    "zack": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-11-04 23:50:20"
     }
   },
   "AUTHENTICATION": {

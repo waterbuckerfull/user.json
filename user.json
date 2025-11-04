@@ -916,20 +916,6 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-03 22:47:50"
-    },
-    "zack": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-11-04 15:01:59"
-    },
-    "sudan": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2025-11-04 15:02:21"
     }
   },
   "AUTHENTICATION": {
@@ -939,7 +925,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-11 17:50:31",
-      "lastUsed": "2025-11-04 15:00:15"
+      "lastUsed": "2025-11-04 15:03:03"
     },
     "1": {
       "password": "1",

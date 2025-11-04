@@ -923,6 +923,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-04 15:05:05"
+    },
+    "iqro": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-11-04 15:09:10"
     }
   },
   "AUTHENTICATION": {

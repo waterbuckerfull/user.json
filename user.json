@@ -930,6 +930,13 @@
       "expiryDate": "2026-02-28",
       "loginMessage": "",
       "creationDate": "2025-11-18 00:31:40"
+    },
+    "user23": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "No Expiry",
+      "loginMessage": "",
+      "creationDate": "2025-11-18 00:40:19"
     }
   },
   "AUTHENTICATION": {

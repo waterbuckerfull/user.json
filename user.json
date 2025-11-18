@@ -923,6 +923,13 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-11 19:04:31"
+    },
+    "kaafi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-02-28",
+      "loginMessage": "",
+      "creationDate": "2025-11-18 00:31:40"
     }
   },
   "AUTHENTICATION": {

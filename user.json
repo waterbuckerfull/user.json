@@ -807,6 +807,14 @@
     }
   },
   "B4EVER": {
+    "maska": {
+      "password": "1",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
+      "expiryDate": "2025-12-07",
+      "loginMessage": "",
+      "creationDate": "2025-07-11 18:58:51",
+      "lastUsed": "2025-07-27 23:16:30"
+    },
     "goten": {
       "password": "1",
       "hwid": "FD8BD55F-8F6C-F949-6016-60CF84600391",
@@ -839,6 +847,13 @@
       "creationDate": "2025-08-05 15:24:29",
       "lastUsed": "2025-12-22 19:06:34"
     },
+    "abdi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-01-28",
+      "loginMessage": "",
+      "creationDate": "2025-10-29 22:40:37"
+    },
     "haji": {
       "password": "1",
       "hwid": "",
@@ -848,10 +863,18 @@
     },
     "boyka": {
       "password": "33",
-      "hwid": "",
+      "hwid": "03560274-043C-0552-ED06-1D0700080009",
       "expiryDate": "No Expiry",
       "loginMessage": "",
-      "creationDate": "2025-10-30 21:18:46"
+      "creationDate": "2025-10-30 21:18:46",
+      "lastUsed": "2026-06-17 11:47:24"
+    },
+    "xabeeb": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-01-08",
+      "loginMessage": "",
+      "creationDate": "2025-10-30 21:20:35"
     },
     "xabeb": {
       "password": "1",
@@ -903,19 +926,19 @@
       "creationDate": "2025-11-11 19:04:31",
       "lastUsed": "2026-06-13 04:12:49"
     },
+    "kaafi": {
+      "password": "1",
+      "hwid": "",
+      "expiryDate": "2026-02-28",
+      "loginMessage": "",
+      "creationDate": "2025-11-18 00:31:40"
+    },
     "user23": {
       "password": "1",
       "hwid": "",
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-11-18 00:40:19"
-    },
-    "ozil": {
-      "password": "1",
-      "hwid": "",
-      "expiryDate": "No Expiry",
-      "loginMessage": "",
-      "creationDate": "2026-06-17 11:45:43"
     }
   },
   "AUTHENTICATION": {
@@ -925,7 +948,7 @@
       "expiryDate": "No Expiry",
       "loginMessage": "",
       "creationDate": "2025-07-11 17:50:31",
-      "lastUsed": "2026-06-17 11:45:23"
+      "lastUsed": "2025-11-18 00:28:24"
     },
     "1": {
       "password": "1",
